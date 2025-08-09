@@ -15,7 +15,6 @@ It is designed to demonstrate:
 | Component           | Quantity |
 |--------------------|----------|
 | Arduino UNO R3     | 1        |
-| L293D Motor Driver | 1–2      |
 | DC Motors          | 4        |
 | Battery Pack (4xAA, 6V) | 1    |
 | Breadboard + Wires | As needed |
